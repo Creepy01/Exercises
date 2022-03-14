@@ -1,0 +1,13 @@
+body {background-color:#0fcf90 ; }
+h1 {color: #b9105e; }
+h2 {color: orange;}
+li {color: blue;}
+p {background-color: yellow;}
+input{border: 3px solid red;}
+p.hello {background-color: white }
+#special{border: 2px solid blue;}
+div p {font-size: 25px;}
+input[type=text]{background-color: gray;}
+:nth-of-type(3) p {background-color: pink;}
+:nth-of-type(3) :nth-of-type(2){border: 5px solid white;}
+:nth-of-type(3) em {font-size: 20px;color: white;}
